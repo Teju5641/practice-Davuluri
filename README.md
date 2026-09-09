@@ -29,3 +29,15 @@ These are the cities I would like to visit in the future. These are some of the 
 | Rome | To Visit Colosseum | 5,100 miles | $900 |
 | Seoul | To Experience Korean culture | 6,500 miles | $1,200 |
 | Paris | To See Eiffel Tower | 4,500 miles | $850 |
+
+---
+
+## Favorite Jokes
+
+### Kapil Sharma
+
+> Why did the computer go to the doctor? Because it caught a virus!
+
+### Vir Das
+
+> Why was the math book sad? Because it had too many problems!
