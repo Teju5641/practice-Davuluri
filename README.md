@@ -9,3 +9,9 @@ My favorite actor is Emma Stone because she is **very talented** and makes every
 1. Spider-Man: No Way Home
 2. Avengers: Endgame
 3. The Amazing Spider-Man
+
+### My Favorite Songs
+
+- Perfect
+- Blinding Lights
+- Shape of You
