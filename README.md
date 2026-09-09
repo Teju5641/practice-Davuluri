@@ -64,3 +64,4 @@ public class ReadAndPrintScores
                 System.out.println(s.nextInt());
             }
 ```
+[Reading ints from file with Scanner class](https://www.cs.utexas.edu/~scottm/cs307/javacode/codeSamples/ReadAndPrintScores.java)
