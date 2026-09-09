@@ -23,12 +23,12 @@ My favorite actor is Emma Stone because she is **very talented** and makes every
 
 These are the cities I would like to visit in the future. These are some of the places I have dreamed of visiting.
 
-| City | Reason | Distance from Missouri | Travel Cost |
+| City | Reason | Distance from Pari | Travel Cost |
 | --- | --- | --- | --- |
-| London | To visit London Bridge  | 4,200 miles | $800 |
-| Rome | To Visit Colosseum | 5,100 miles | $900 |
-| Seoul | To Experience Korean culture | 6,500 miles | $1,200 |
-| Paris | To See Eiffel Tower | 4,500 miles | $850 |
+| London | To visit London Bridge  | 290 miles | $500 |
+| Rome | To Visit Colosseum | 687 miles | $600 |
+| Seoul | To Experience Korean culture | 5,560 miles | $700 |
+| Tokyo | To experience Japanese culture | 6,040 miles | $850 |
 
 ---
 
@@ -41,3 +41,26 @@ These are the cities I would like to visit in the future. These are some of the 
 ### Vir Das
 
 > Why was the math book sad? Because it had too many problems!
+---
+
+## Code Snippet
+
+### Reading Integers from a File
+This Java code reads integer values from a file using the Scanner class.
+```
+import java.util.Scanner;
+import java.io.File;
+import java.io.IOException;
+
+public class ReadAndPrintScores
+{
+    public static void main(String[] args)
+    {
+        try
+        {
+            Scanner s = new Scanner(new File("scores.dat"));
+            while(s.hasNextInt())
+            {
+                System.out.println(s.nextInt());
+            }
+```
