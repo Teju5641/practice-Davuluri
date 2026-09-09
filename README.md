@@ -26,6 +26,6 @@ These are the cities I would like to visit in the future. These are some of the 
 | City | Reason | Distance from Missouri | Travel Cost |
 | --- | --- | --- | --- |
 | London | To visit London Bridge  | 4,200 miles | $800 |
-| Rome | To See Colosseum | 5,100 miles | $900 |
-| Seoul | Experience Korean culture | 6,500 miles | $1,200 |
+| Rome | To Visit Colosseum | 5,100 miles | $900 |
+| Seoul | To Experience Korean culture | 6,500 miles | $1,200 |
 | Paris | To See Eiffel Tower | 4,500 miles | $850 |
