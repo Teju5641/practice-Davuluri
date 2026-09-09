@@ -21,11 +21,11 @@ My favorite actor is Emma Stone because she is **very talented** and makes every
 ---
 ## Cities I Would Like to Visit
 
-I would like to visit these cities in the future.
+These are the cities I would like to visit in the future. These are some of the places I have dreamed of visiting.
 
-| City | Reason | Distance from Paris | Travel Cost |
+| City | Reason | Distance from Missouri | Travel Cost |
 | --- | --- | --- | --- |
-| London | Big Ben | 344 km | $100 |
-| Rome | Colosseum | 1,105 km | $150 |
-| Seoul | N Seoul Tower | 8,970 km | $700 |
-| Paris | Eiffel Tower | 0 km | $50 |
+| London | To visit London Bridge  | 4,200 miles | $800 |
+| Rome | To See Colosseum | 5,100 miles | $900 |
+| Seoul | Experience Korean culture | 6,500 miles | $1,200 |
+| Paris | To See Eiffel Tower | 4,500 miles | $850 |
